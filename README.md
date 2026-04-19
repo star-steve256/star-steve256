@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hello, I am Steve
 
-<!--
-**star-steve256/star-steve256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐋 I am a software dev student, passionate about coding, problem-solving, and persistent learning.
 
-Here are some ideas to get you started:
+⚡ Favourite programming languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+🎯 I aspire to be a software engineer and architect who who thinks in systems, builds with intention, and crafts solutions that are both elegant and built to sustain.
