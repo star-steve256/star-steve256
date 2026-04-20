@@ -10,4 +10,4 @@
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
-🎯 I aspire to be a software engineer and architect who who thinks in systems, builds with intention, and crafts solutions that are both elegant and built to sustain.
+🎯 I aspire to be a software engineer and architect who thinks in systems, builds with intention, and crafts solutions that are both elegant and built to sustain.
